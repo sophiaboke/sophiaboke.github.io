@@ -1,0 +1,22 @@
+baseURL = "localhost"
+languageCode = "en"
+title = "Sophia Liu's Blog"
+theme = "hugo-brewm"
+defaultContentLanguage = "zh-cn"
+sectionPagesMenu = "main"
+enableRobotsTXT = true
+
+[params]
+  description = "这里是我的个人博客，记录我的思考、生活和创业日记。"
+  author = ""
+  favicon = ""
+  site_logo = ""
+  background_color_class = "bg-black"
+  featured_image_class = "cover bg-top"
+  cover_dimming_class = "bg-black-60"
+  recent_posts_number = 3
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
