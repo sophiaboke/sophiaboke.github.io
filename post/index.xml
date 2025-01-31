@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sophia Liu&#39;s Blog</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent Posts in Posts on Sophia Liu&#39;s Blog</description>
+    <generator>Hugo 0.142.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 01 Feb 2025 00:38:47 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇日志</title>
+      <link>http://localhost:1313/post/blog/</link>
+      <pubDate>Fri, 31 Jan 2025 21:09:38 +0800</pubDate>
+      <guid>http://localhost:1313/post/blog/</guid>
+      <description></description>
+      
+    </item>
+  </channel>
+</rss>
